@@ -11,9 +11,9 @@ npm install secure-room
 ## Usage
 
 ```javascript
-const { secureRoom } = require('my-secure-room');
+const { secureRoom } = require('secure-room');
 
-console.log(secureRoom()); // Example output: "act-about-5927"
+console.log(secureRoom()) //'paper-social-4103'
 ```
 
 ## Is this faster?
