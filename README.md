@@ -1,11 +1,11 @@
-# my-secure-room
+# secure-room
 
 A secure room code generator implemented as a Node.js native addon.
 
 ## Installation
 
 ```bash
-npm install my-secure-room
+npm install secure-room
 ```
 
 ## Usage
