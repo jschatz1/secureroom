@@ -1,6 +1,6 @@
 {
   "name": "secure-room",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A secure room code generator implemented as a Node.js C addon",
   "main": "index.js",
   "scripts": {
