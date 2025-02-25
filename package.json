@@ -1,0 +1,23 @@
+{
+  "name": "secure-room",
+  "version": "1.0.0",
+  "description": "A secure room code generator implemented as a Node.js C addon",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "node test.js"
+  },
+  "gypfile": true,
+  "keywords": [
+    "secure",
+    "room",
+    "code",
+    "native",
+    "addon"
+  ],
+  "author": "Jacob Schatz",
+  "license": "MIT",
+  "dependencies": {
+    "bindings": "^1.5.0"
+  }
+}
