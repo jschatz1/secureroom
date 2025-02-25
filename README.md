@@ -10,9 +10,11 @@ npm install secure-room
 
 ## Usage
 
+```javascript
 const { secureRoom } = require('my-secure-room');
 
 console.log(secureRoom()); // Example output: "act-about-5927"
+```
 
 ## Is this faster?
 
